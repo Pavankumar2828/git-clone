@@ -1,4 +1,8 @@
 public class jav1{
-public ststic void main(String[] args){
+public static void main(String[] args){
+System.out.println("hello");
+}
+class jav2{
+public static void main(String[] args){
 System.out.println("hello");
 }
